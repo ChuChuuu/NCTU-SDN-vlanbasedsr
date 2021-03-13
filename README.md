@@ -1,2 +1,2 @@
 # NCTU-SDN-vlanbasedsr
-Please give me a star, if this repo is help to you.
+Please do star it, if this Repo is helpful to you.
